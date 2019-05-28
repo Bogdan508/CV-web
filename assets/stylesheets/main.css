@@ -19,15 +19,16 @@ margin-top: 0px;
 }
 
 #margtop1 {
-margin-bottom: -3px;
+margin-bottom: -4px;
 }
 
 #margtop2 {
-margin-bottom: -3px;
+margin-top: 12px;
+margin-bottom: -4px;
 }
 
 #margtop3 {
-margin-bottom: -3px;
+margin-bottom: -4px;
 }
 
 #margtop4 {
@@ -421,11 +422,13 @@ button {
 color: #450B0B;
 font: 300 16px/22px "Roboto", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 font-size: 20px;
-margin-left: 6%;
-margin-bottom: 1.5%;
+margin-left: 8.5%;
+margin-bottom: 1%;
 margin-top: -5px;
+width: 300px;
+height: 40px;
 background-color: white;
-border: 1px solid #450B0B;
+border: 2px solid #450B0B;
 text-align: center;
 text-decoration: none;
 background-color: #e3efef;
@@ -433,33 +436,33 @@ cursor: pointer;
 }
 
 .bars {display: block; width: 100%;}
-.mar {display: inline-block; width: 46%; padding-bottom: 1%; padding-left: 3%;}
-.bborder{border:1px solid #ccc; background: #d0d3d8; display: block; width: 90%;}
+.mar {display: inline-block; width: 46%; padding-top: 1%; padding-left: 3%;}
+.bborder{border:2px solid #ccc; background: #d0d3d8; display: block; width: 90%;}
 .round {border-radius: 30px;}
 .bar1 {color:#000;background-color:#9e9e9e; width: 80%; font-size: 20px; color: #000000;
-text-indent: 20px; line-height: 25px;}
+text-indent: 13px; line-height: 25px;}
 .bar2 {color:#000;background-color:#9e9e9e; width: 85%; font-size: 20px; color: #000000;
-text-indent: 20px; line-height: 25px;}
+text-indent: 13px; line-height: 25px;}
 .bar3 {color:#000;background-color:#9e9e9e; width: 40%; font-size: 20px; color: #000000;
-text-indent: 20px; line-height: 25px;}
+text-indent: 13px; line-height: 25px;}
 .bar4 {color:#000;background-color:#9e9e9e; width: 55%; font-size: 20px; color: #000000;
-text-indent: 20px; line-height: 25px;}
+text-indent: 13px; line-height: 25px;}
 .bar5 {color:#000;background-color:#9e9e9e; width: 20%; font-size: 20px; color: #000000;
-text-indent: 20px; line-height: 25px;}
+text-indent: 13px; line-height: 25px;}
 .bar6 {color:#000;background-color:#9e9e9e; width: 90%; font-size: 20px; color: #000000;
-text-indent: 20px; line-height: 25px;}
+text-indent: 13px; line-height: 25px;}
 .bar7 {color:#000;background-color:#9e9e9e; width: 45%; font-size: 20px; color: #000000;
-text-indent: 20px; line-height: 25px;}
-.bar8 {color:#000;background-color:#9e9e9e; width: 40%; font-size: 20px; color: #000000;
-text-indent: 20px; line-height: 25px;}
+text-indent: 13px; line-height: 25px;}
+.bar8 {color:#000;background-color:#9e9e9e; width: 70%; font-size: 20px; color: #000000;
+text-indent: 13px; line-height: 25px;}
 .bar9 {color:#000;background-color:#9e9e9e; width: 60%; font-size: 20px; color: #000000;
-text-indent: 20px; line-height: 25px;}
+text-indent: 13px; line-height: 25px;}
 .bar10 {color:#000;background-color:#9e9e9e; width: 30%; font-size: 20px; color: #000000;
-text-indent: 20px; line-height: 25px;}
+text-indent: 13px; line-height: 25px;}
 .bar11 {color:#000;background-color:#9e9e9e; width: 40%; font-size: 20px; color: #000000;
-text-indent: 20px; line-height: 25px;}
+text-indent: 13px; line-height: 25px;}
 .bar12 {color:#000;background-color:#9e9e9e; width: 85%; font-size: 20px; color: #000000;
-text-indent: 20px; line-height: 25px;}
+text-indent: 13px; line-height: 25px;}
 
  /*
   ========================================
@@ -536,7 +539,7 @@ margin-bottom: 8%;
 }
 
 #txxt13 {
-margin-bottom: 8%;
+margin-bottom: 6.5%;
 }
 
  /*
@@ -595,7 +598,7 @@ margin-bottom: 4%;
 }
 
 #txxt13 {
-margin-bottom: 4%;
+margin-bottom: 3%;
 }
 
 #txxtri {
@@ -645,5 +648,8 @@ display: inline-block;
 
 button {
 font-size: 25px;
+width: 350px;
+height: 50px;
+margin-left: 5%;
 }
 }
