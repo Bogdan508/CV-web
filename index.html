@@ -8,6 +8,7 @@
 	<title>CV</title>
 	<link rel="stylesheet" href="assets/stylesheets/main.css">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,300,100&subset=cyrillic,latin">
+	<link rel="shortcut icon" href="assets/home.ico" type="image/x-icon">
 </head>
 
 <body>
@@ -81,11 +82,60 @@
 				</ul></li></ul>
 
 				<ul class="list"><li id="margtop1"><b>Special skills: </b></li></ul>
-				<p>Computer literacy, basic html/css/js/sql knowledge, + most needed QA knowledge and skills as for junior: Chrome DevTools, Charles, Testrail, Jira, Scrum, Unix based terminal, Git(you can see more about my skills on the other page)</p>
+				<p>Computer literacy, basic html/css/js/sql knowledge, + most needed QA knowledge and skills as for junior: Chrome DevTools, Charles, Testrail, Jira, Scrum, Unix based terminal, Git(you can see more about my skills on the other page)</p><a href="#" onclick="show()"><button id="but">Hide/show the progress bars</button></a>
+
+				<div class="bars" id="myShowBlock">
+				<div class="mar">
+				<div class="bborder round">
+				<div class="bar1 round">HTML</div></div></div>
+
+				<div class="mar">
+				<div class="bborder round">
+				<div class="bar2 round">Jira</div></div></div>
+
+				<div class="mar">
+				<div class="bborder round">
+				<div class="bar3 round">CSS</div></div></div>
+
+				<div class="mar">
+				<div class="bborder round">
+				<div class="bar4 round">Testrail</div></div></div>
+
+				<div class="mar">
+				<div class="bborder round">
+				<div class="bar5 round">JS</div></div></div>
+
+				<div class="mar">
+				<div class="bborder round">
+				<div class="bar6 round">Scrum</div></div></div>
+
+				<div class="mar">
+				<div class="bborder round">
+				<div class="bar7 round">SQL</div></div></div>
+
+				<div class="mar">
+				<div class="bborder round">
+				<div class="bar8 round">Charles</div></div></div>
+
+				<div class="mar">
+				<div class="bborder round">
+				<div class="bar9 round">Chrome DevTools</div></div></div>
+
+				<div class="mar">
+				<div class="bborder round">
+				<div class="bar10 round">Git</div></div></div>
+
+				<div class="mar">
+				<div class="bborder round">
+				<div class="bar11 round">Unix terminal</div></div></div>
+
+				<div class="mar">
+				<div class="bborder round">
+				<div class="bar12 round"></div></div></div></div>
 
 				<ul class="list"><li id="margtop2"><b>Personal qualities: </b></li></ul>
 				<p>Realist, principled, responsible, stress-resistant, creative, organized, resourceful, have destructive type of thinking. Logic above all</p>
-				
+
 				<ul class="list"><li id="margtop3"><b>Additional Information: </b></li></ul>
 				<p>I have an international passport, driving license, ready for business trips, have no bad habits, also I am interested in IT, especially in testing(you can see more about my interests on the other page)</p>
 				<p id="tothetop"><a href="#top">To the top</a></p>
@@ -111,6 +161,22 @@
 		</div>
 		</div>
 	</footer>
+
+
+<script type="text/javascript">
+        document.getElementById('myShowBlock' ).style.display = 'none';	
+var visible = false;
+
+function show() {
+    if (visible) {
+        document.getElementById('myShowBlock' ).style.display = 'none';
+        visible = false;
+    } else {
+        document.getElementById('myShowBlock' ).style.display = 'block';
+        visible = true;
+    }
+}
+</script>
 
 </body>
  
