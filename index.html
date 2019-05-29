@@ -13,7 +13,7 @@
 
 <body>
 
-<a id="top"></a>
+<a href="top"></a>
 
 	<header>
  		<div class="head">
@@ -82,56 +82,57 @@
 				</ul></li></ul>
 
 				<ul class="list"><li id="margtop1"><b>Hard skills: </b></li></ul>
-				<p>Computer literacy, basic html/css/js/sql knowledge, + most needed QA knowledge and skills as for junior: Chrome DevTools, Charles, Testrail, Jira, Scrum, Unix based terminal, Git(you can see more about my skills on the other page). Also, you can see approximate level of understanding in bars bellow:</p><a id="#" onclick="show()"><button id="but">Show/hide the progress bars</button></a>
+				<p>Computer literacy, basic html/css/js/sql knowledge, + most needed QA knowledge and skills as for junior: Chrome DevTools, Charles, Testrail, Jira, Scrum, Unix based terminal, Git(you can see more about my skills on the other page). Also, you can see approximate level of understanding in bars bellow:</p><a href="#" onclick="show()"><button id="but">Show/hide the progress bars</button></a>
 
 				<div class="bars" id="myShowBlock">
-				<div class="mar">
-				<div class="bborder round">
-				<div class="bar1 round">HTML</div></div></div>
+					<div class="mar">
+					<div class="bborder round">
+					<div class="bar1 round">HTML</div></div></div>
 
-				<div class="mar">
-				<div class="bborder round">
-				<div class="bar2 round">Jira</div></div></div>
+					<div class="mar">
+					<div class="bborder round">
+					<div class="bar2 round">Jira</div></div></div>
 
-				<div class="mar">
-				<div class="bborder round">
-				<div class="bar3 round">CSS</div></div></div>
+					<div class="mar">
+					<div class="bborder round">
+					<div class="bar3 round">CSS</div></div></div>
 
-				<div class="mar">
-				<div class="bborder round">
-				<div class="bar4 round">Testrail</div></div></div>
+					<div class="mar">
+					<div class="bborder round">
+					<div class="bar4 round">Testrail</div></div></div>
 
-				<div class="mar">
-				<div class="bborder round">
-				<div class="bar5 round">JS</div></div></div>
+					<div class="mar">
+					<div class="bborder round">
+					<div class="bar5 round">JS</div></div></div>
 
-				<div class="mar">
-				<div class="bborder round">
-				<div class="bar6 round">Scrum</div></div></div>
+					<div class="mar">
+					<div class="bborder round">
+					<div class="bar6 round">Scrum</div></div></div>
 
-				<div class="mar">
-				<div class="bborder round">
-				<div class="bar7 round">SQL</div></div></div>
+					<div class="mar">
+					<div class="bborder round">
+					<div class="bar7 round">SQL</div></div></div>
 
-				<div class="mar">
-				<div class="bborder round">
-				<div class="bar8 round">Charles</div></div></div>
+					<div class="mar">
+					<div class="bborder round">
+					<div class="bar8 round">Charles</div></div></div>
 
-				<div class="mar">
-				<div class="bborder round">
-				<div class="bar9 round">Linux OS(terminal)</div></div></div>
+					<div class="mar">
+					<div class="bborder round">
+					<div class="bar9 round">Linux OS(terminal)</div></div></div>
 
-				<div class="mar">
-				<div class="bborder round">
-				<div class="bar10 round">Git</div></div></div>
+					<div class="mar">
+					<div class="bborder round">
+					<div class="bar10 round">Git</div></div></div>
 
-				<div class="mar">
-				<div class="bborder round">
-				<div class="bar11 round">Chrome DevTools</div></div></div>
+					<div class="mar">
+					<div class="bborder round">
+					<div class="bar11 round">Chrome DevTools</div></div></div>
 
-				<div class="mar">
-				<div class="bborder round">
-				<div class="bar12 round"></div></div></div></div>
+					<div class="mar">
+					<div class="bborder round">
+					<div class="bar12 round"></div></div></div>
+				</div>
 
 				<ul class="list"><li id="margtop2"><b>Personal qualities: </b></li></ul>
 				<p>Realist, principled, responsible, stress-resistant, creative, organized, resourceful, have destructive type of thinking. Logic above all</p>
@@ -168,10 +169,10 @@ document.getElementById('myShowBlock' ).style.display = 'none';
 var visible = false;
 
 function show() {
-    if (visible) {
+    if (visible) { event.preventDefault();
         document.getElementById('myShowBlock' ).style.display = 'none';
         visible = false;
-    } else {
+    } else { event.preventDefault();
         document.getElementById('myShowBlock' ).style.display = 'block';
         visible = true;
     }
