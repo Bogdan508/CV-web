@@ -509,6 +509,16 @@ padding-left: 120px;
 padding-bottom: 2%;
 }
 
+	.inprog802 {
+opacity: 0.77;
+background: C1C1C1;
+font-size: 24px;
+color: #450B0B;
+font-style: italic;
+letter-spacing: 3px;
+padding-bottom: 2%;
+}
+
 	.txxt1 {
 margin-bottom: 1%;
 }
@@ -620,6 +630,10 @@ text-indent: 37%;
 
 	.inprog80 {
 padding: 0px 0px 0px 120px;
+}
+
+	.inprog802 {
+padding: 0px 0px 0px 0px;
 }
 
 	.txxt1 {
