@@ -416,6 +416,12 @@ margin-top: 17px;
 margin-bottom: 45px;
 }
 
+#tothetop2 {
+margin-left: 65%;
+margin-top: 17px;
+margin-bottom: 45px;
+}
+
 #tothetoph {
 margin-left: 65%;
 margin-top: 17px;
@@ -487,20 +493,24 @@ padding-bottom: 0.8%;
 	.inprog0 {
 opacity: 0.08;
 background: C1C1C1;
+padding-bottom: 0.8%;
 }
 	.inprog50 {
 opacity: 0.35;
 background: C1C1C1;
+padding-bottom: 0.8%;
 }
 
 	.inprog60 {
 opacity: 0.6;
 background: C1C1C1;
+padding-bottom: 0.8%;
 }
 
 	.inprog80 {
 opacity: 0.70;
 background: C1C1C1;
+padding-bottom: 0.8%;
 }
 
 	.txxt1 {
@@ -594,6 +604,18 @@ margin-bottom: 40%;
 
 	.linktext1 {
 margin-bottom: 60%;
+}
+
+#tothetop {
+font-size: 32px;
+}
+
+#tothetop2 {
+font-size: 38px;
+}
+
+#tothetoph {
+font-size: 32px;
 }
 
 	h2 {
