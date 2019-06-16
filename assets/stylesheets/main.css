@@ -620,8 +620,9 @@ text-indent: 37%;
 }
 
 	.inprog80 {
-padding: 0px 0px 0px 120px;
+padding: 10px 5px 0px 120px;
 width: 5000px;
+font-size: 35px;
 }
 
 	.txxt1 {
