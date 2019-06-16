@@ -510,6 +510,12 @@ padding-bottom: 0.8%;
 	.inprog80 {
 opacity: 0.70;
 background: C1C1C1;
+font-size: 24px;
+color: #450B0B;
+font-style: italic;
+letter-spacing: 3px;
+padding-left: 120px;
+padding-bottom: 2%;
 }
 
 	.txxt1 {
@@ -621,8 +627,8 @@ font-size: 32px;
 text-indent: 37%;
 }
 
-	h3 {
-margin: 0px 0px 0px 120px;
+	.inprog80 {
+padding: 0px 0px 0px 120px;
 }
 
 	.txxt1 {
