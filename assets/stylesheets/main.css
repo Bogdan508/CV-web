@@ -507,6 +507,7 @@ font-style: italic;
 letter-spacing: 3px;
 padding-left: 120px;
 padding-bottom: 2%;
+width: 100%;
 }
 
 	.txxt1 {
@@ -620,6 +621,7 @@ text-indent: 37%;
 
 	.inprog80 {
 padding: 0px 0px 0px 120px;
+width: 5000px;
 }
 
 	.txxt1 {
