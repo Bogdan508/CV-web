@@ -510,7 +510,6 @@ padding-bottom: 0.8%;
 	.inprog80 {
 opacity: 0.70;
 background: C1C1C1;
-padding-bottom: 0.8%;
 }
 
 	.txxt1 {
@@ -622,6 +621,10 @@ font-size: 32px;
 text-indent: 37%;
 }
 
+	h3 {
+margin: 0px 0px 0px 120px;
+}
+
 	.txxt1 {
 margin-bottom: 2px;
 }
@@ -688,5 +691,6 @@ font-size: 25px;
 width: 350px;
 height: 50px;
 margin-left: 5%;
+border-width: 3px;
 }
 }
