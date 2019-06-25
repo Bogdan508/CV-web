@@ -531,7 +531,6 @@ font-style: italic;
 letter-spacing: 3px;
 padding-left: 120px;
 padding-bottom: 2%;
-width: 100%;
 }
 
 	.cr {
@@ -672,9 +671,7 @@ text-indent: 37%;
 }
 
 	.inprog80 {
-padding: 10px 5px 0px 120px;
-width: 5000px;
-font-size: 35px;
+font-size: 30px;
 }
 
 	.txxt1 {
