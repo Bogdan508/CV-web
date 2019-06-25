@@ -209,12 +209,13 @@ padding-left: 21%;
 */
 
 	.myphoto {
+border: double 5px #ccc;
 width: 32%;
 height: 32%;
 float: right;
-margin-right: 40px;
-margin-left: 50px;
-margin-top: 0px;
+margin-right: 35px;
+margin-left: 45px;
+margin-top: -10px;
 margin-bottom: 5px;
 -moz-border-radius: 60px; 
 -webkit-border-radius: 60px;  
@@ -448,7 +449,7 @@ cursor: pointer;
 .round {border-radius: 30px;}
 .bar1 {color:#000;background-color:#9e9e9e; width: 80%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
-.bar2 {color:#000;background-color:#9e9e9e; width: 85%; font-size: 20px; color: #000000;
+.bar2 {color:#000;background-color:#9e9e9e; width: 80%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
 .bar3 {color:#000;background-color:#9e9e9e; width: 40%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
@@ -508,6 +509,10 @@ letter-spacing: 3px;
 padding-left: 120px;
 padding-bottom: 2%;
 width: 100%;
+}
+
+	.cr {
+text-align: center;
 }
 
 	.txxt1 {
