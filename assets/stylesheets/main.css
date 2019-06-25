@@ -342,22 +342,33 @@ line-height: 20px;
   ========================================
 */
 
+	.containerm{
+margin-left: 5%;
+width:100%
+}
+
+	.bla {
+width: 2px;
+}
+	.bla2 {
+display: block;
+width: 0px;
+}
+
+
 	.leftboxmob {
-height: 0%;
 padding-left: 16%;
 padding-right: 10%;
 padding-top: 2%;
-align-content: center;
-width: 20%;
+width: 15%;
 height: 20%;
 }
 
 	.centerboxmob {
-height: 0%;
 padding-left: 15%;
 padding-right: 10%;
 padding-top: 2%;
-width: 20%;
+width: 15%;
 height: 20%;
 }
 
@@ -377,6 +388,17 @@ margin-bottom: -10px;
 display: none;
 }
 
+#mobnavig1s {
+margin-left: -20px;
+text-indent: 0px;
+text-align: center;	
+font-size: 30px;
+line-height: 30px; 
+margin-bottom: -10px;
+display: none;
+
+}
+
 #mobnavig2 {
 text-indent: 0px;
 text-align: center;	
@@ -392,15 +414,6 @@ width: 100%;
 height: 100%;
 }
 
-#mobhr {
-width: 75%;
-border: none;
-color: #450B0B; 
-height: 4px;
-background-color: #686868;	
-display: none;
-//margin-bottom: 10px;
-}
 
 #tothetop {
 margin-left: 65%;
@@ -587,6 +600,17 @@ background: linear-gradient(to right,
 #63A69F 4%);
 } 
 
+	.bla2 {
+height: 15px;
+}
+	.leftboxmob {
+border: 10px solid #ccc;
+}
+
+	.centerboxmob {
+border: 10px solid #ccc;
+}
+
 
 .leftbox {
 width: 0%;
@@ -679,16 +703,18 @@ margin-bottom: 3%;
 display: inline-block;
 }
 
+#mobnavig1s {
+display: inline-block;
+}
+
 #mobnavig2 {
 display: inline-block;
+margin-left: -6px;
 }
 
 	.novis {
 display: inline-block;
-	}
-
-#mobhr {
-display: inline-block;
+margin-left: -17%;
 }
 
 button {
