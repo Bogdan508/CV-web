@@ -4,6 +4,7 @@ background: linear-gradient(to right,
 #63A69F 10%,
 #e3efef 10%, #e3efef 90%,
 #63A69F 10%);
+
 } 
 
 	p {
@@ -150,13 +151,14 @@ background: linear-gradient(to right, #63A69F, #63A69F, #00a8a8, #63A69F, #63A69
 */
 
 	.container{
-overflow:hidden;
+
 width:100%
 }
 
 	.box div{
 display:inline-block;
 margin: 0px;	
+
 }
 
 	.leftbox {
@@ -343,16 +345,24 @@ line-height: 20px;
 */
 
 	.containerm{
-margin-left: 5%;
 width:100%
 }
 
 	.bla {
-width: 2px;
+width: 0px;
 }
 	.bla2 {
 display: block;
 width: 0px;
+}
+
+	.bla3 {
+display: block;
+width: 0px;
+}
+	.bla4 {
+display: inline-block;
+width: 0%;
 }
 
 
@@ -600,9 +610,22 @@ background: linear-gradient(to right,
 #63A69F 4%);
 } 
 
-	.bla2 {
-height: 15px;
+	.bla {
+width: 2px;
 }
+
+	.bla2 {
+height: 10px;
+}
+
+	.bla3 {
+height: 10px;
+}
+
+	.bla4 {
+width: 5%;
+}
+
 	.leftboxmob {
 border: 10px solid #ccc;
 }
