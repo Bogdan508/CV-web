@@ -426,21 +426,51 @@ height: 100%;
 
 
 #tothetop {
-margin-left: 65%;
+text-align: center;
+padding-top: 1%;
+width: 150px;
+height: 30px;
+border: 4px solid #ccc;	
+font-size: 20px; 
+margin-left: 75%;
 margin-top: 17px;
 margin-bottom: 45px;
+}
+
+#tothetop:hover {
+background: #ccc;
 }
 
 #tothetop2 {
-margin-left: 65%;
+text-align: center;
+padding-top: 1%;
+width: 150px;
+height: 30px;
+border: 4px solid #ccc;	
+font-size: 20px; 
+margin-left: 75%;
 margin-top: 17px;
 margin-bottom: 45px;
 }
 
+#tothetop2:hover {
+background: #ccc;
+}
+
 #tothetoph {
-margin-left: 65%;
+text-align: center;
+padding-top: 1%;
+width: 150px;
+height: 30px;
+border: 4px solid #ccc;	
+font-size: 20px; 	
+margin-left: 75%;
 margin-top: 17px;
 margin-bottom: 37px;
+}
+
+#tothetoph:hover {
+background: #ccc;
 }
 
 /*
@@ -459,40 +489,55 @@ margin-top: -5px;
 width: 300px;
 height: 40px;
 background-color: white;
-border: 2px solid #450B0B;
+border: 5px solid #ccc;
 text-align: center;
 text-decoration: none;
 background-color: #e3efef;
 cursor: pointer;
 }
 
+button:hover {
+background: #ccc;
+}
+
 .bars {display: block; width: 100%;}
 .mar {display: inline-block; width: 46%; padding-top: 1%; padding-left: 3%;}
-.bborder{border:2px solid #ccc; background: #d0d3d8; display: block; width: 90%;}
+.mar2 {display: inline-block; width: 46%; padding-top: 1%; padding-left: 3%;}
+.mar3 {display: inline-block; width: 46%; padding-top: 1%; padding-left: 3%;padding-bottom: 2%;}
+.bborder{border:2px solid #ccc; background: #d0d3d8; display: block; width: 90%;font-size: 20px;
+color: #450B0B;}
 .round {border-radius: 30px;}
-.bar1 {color:#000;background-color:#9e9e9e; width: 80%; font-size: 20px; color: #000000;
+.bar1 {color:#000;background-color:#b5b5bc; width: 80%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
-.bar2 {color:#000;background-color:#9e9e9e; width: 80%; font-size: 20px; color: #000000;
+.bar2 {color:#000;background-color:#b5b5bc; width: 80%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
-.bar3 {color:#000;background-color:#9e9e9e; width: 40%; font-size: 20px; color: #000000;
+.bar3 {color:#000;background-color:#b5b5bc; width: 40%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
-.bar4 {color:#000;background-color:#9e9e9e; width: 45%; font-size: 20px; color: #000000;
+.bar4 {color:#000;background-color:#b5b5bc; width: 45%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
-.bar5 {color:#000;background-color:#9e9e9e; width: 15%; font-size: 20px; color: #000000;
+.bar5 {color:#000;background-color:#b5b5bc; width: 15%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
-.bar6 {color:#000;background-color:#9e9e9e; width: 80%; font-size: 20px; color: #000000;
+.bar6 {color:#000;background-color:#b5b5bc; width: 80%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
-.bar7 {color:#000;background-color:#9e9e9e; width: 30%; font-size: 20px; color: #000000;
+.bar7 {color:#000;background-color:#b5b5bc; width: 30%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
-.bar8 {color:#000;background-color:#9e9e9e; width: 30%; font-size: 20px; color: #000000;
+.bar8 {color:#000;background-color:#b5b5bc; width: 30%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
-.bar9 {color:#000;background-color:#9e9e9e; width: 40%; font-size: 20px; color: #000000;
+.bar9 {color:#000;background-color:#b5b5bc; width: 40%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
-.bar10 {color:#000;background-color:#9e9e9e; width: 50%; font-size: 20px; color: #000000;
+.bar10 {color:#000;background-color:#b5b5bc; width: 50%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
-.bar11 {color:#000;background-color:#9e9e9e; width: 35%; font-size: 20px; color: #000000;
+.bar11 {color:#000;background-color:#b5b5bc; width: 35%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
-.bar12 {color:#000;background-color:#9e9e9e; width: 60%; font-size: 20px; color: #000000;
+.bar12 {color:#000;background-color:#b5b5bc; width: 60%; font-size: 20px; color: #000000;
+text-indent: 13px; line-height: 25px;}
+.bar13 {color:#000;background-color:#b5b5bc; width: 70%; font-size: 20px; color: #000000;
+text-indent: 13px; line-height: 25px;}
+.bar14 {color:#000;background-color:#b5b5bc; width: 95%; font-size: 20px; color: #000000;
+text-indent: 13px; line-height: 25px;}
+.bar15 {color:#000;background-color:#b5b5bc; width: 20%; font-size: 20px; color: #000000;
+text-indent: 13px; line-height: 25px;}
+.bar16 {color:#000;background-color:#b5b5bc; width: 95%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
 
  /*
@@ -531,7 +576,6 @@ font-style: italic;
 letter-spacing: 3px;
 padding-left: 120px;
 padding-bottom: 2%;
-width: 90%;
 }
 
 	.cr {
@@ -660,7 +704,7 @@ font-size: 32px;
 }
 
 #tothetop2 {
-font-size: 38px;
+font-size: 32px;
 }
 
 #tothetoph {
