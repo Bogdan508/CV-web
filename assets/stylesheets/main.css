@@ -218,7 +218,7 @@ float: right;
 margin-right: 35px;
 margin-left: 45px;
 margin-top: 5px;
-margin-bottom: 5px;
+margin-bottom: 10px;
 -moz-border-radius: 60px; 
 -webkit-border-radius: 60px;  
 border-radius: 60px; 
@@ -515,7 +515,7 @@ background: #ccc;
 .bars {display: block; width: 100%;}
 .mar {display: inline-block; width: 46%; padding-top: 1%; padding-left: 3%;}
 .mar2 {display: inline-block; width: 46%; padding-top: 1%; padding-left: 3%;}
-.mar3 {display: inline-block; width: 46%; padding-top: 1%; padding-left: 3%;padding-bottom: 2%;}
+.mar3 {display: inline-block; width: 46%; padding-top: 1%; padding-left: 3%;padding-bottom: 2.5%;}
 .bborder{border:2px solid #ccc; background: #d0d3d8; display: block; width: 90%;font-size: 20px;
 color: #450B0B;}
 .round {border-radius: 30px;}
@@ -525,7 +525,7 @@ text-indent: 13px; line-height: 25px;}
 text-indent: 13px; line-height: 25px;}
 .bar3 {color:#000;background-color:#b5b5bc; width: 40%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
-.bar4 {color:#000;background-color:#b5b5bc; width: 45%; font-size: 20px; color: #000000;
+.bar4 {color:#000;background-color:#b5b5bc; width: 60%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
 .bar5 {color:#000;background-color:#b5b5bc; width: 15%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
@@ -533,9 +533,9 @@ text-indent: 13px; line-height: 25px;}
 text-indent: 13px; line-height: 25px;}
 .bar7 {color:#000;background-color:#b5b5bc; width: 30%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
-.bar8 {color:#000;background-color:#b5b5bc; width: 30%; font-size: 20px; color: #000000;
+.bar8 {color:#000;background-color:#b5b5bc; width: 25%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
-.bar9 {color:#000;background-color:#b5b5bc; width: 40%; font-size: 20px; color: #000000;
+.bar9 {color:#000;background-color:#b5b5bc; width: 35%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
 .bar10 {color:#000;background-color:#b5b5bc; width: 50%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
@@ -543,14 +543,14 @@ text-indent: 13px; line-height: 25px;}
 text-indent: 13px; line-height: 25px;}
 .bar12 {color:#000;background-color:#b5b5bc; width: 60%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
-.bar13 {color:#000;background-color:#b5b5bc; width: 70%; font-size: 20px; color: #000000;
-text-indent: 12px; line-height: 25px;}
+.bar13 {color:#000;background-color:#b5b5bc; width: 68%; font-size: 20px; color: #000000;
+text-indent: 11px; line-height: 25px;}
 .bar14 {color:#000;background-color:#b5b5bc; width: 95%; font-size: 20px; color: #000000;
-text-indent: 12px; line-height: 25px;}
+text-indent: 11px; line-height: 25px;}
 .bar15 {color:#000;background-color:#b5b5bc; width: 19%; font-size: 20px; color: #000000;
-text-indent: 12px; line-height: 25px;}
+text-indent: 11px; line-height: 25px;}
 .bar16 {color:#000;background-color:#b5b5bc; width: 95%; font-size: 20px; color: #000000;
-text-indent: 12px; line-height: 25px;}
+text-indent: 11px; line-height: 25px;}
 
  /*
   ========================================
