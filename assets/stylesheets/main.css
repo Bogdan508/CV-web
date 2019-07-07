@@ -523,7 +523,7 @@ color: #450B0B;}
 text-indent: 13px; line-height: 25px;}
 .bar2 {color:#000;background-color:#b5b5bc; width: 80%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
-.bar3 {color:#000;background-color:#b5b5bc; width: 40%; font-size: 20px; color: #000000;
+.bar3 {color:#000;background-color:#b5b5bc; width: 35%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
 .bar4 {color:#000;background-color:#b5b5bc; width: 60%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
@@ -531,17 +531,17 @@ text-indent: 13px; line-height: 25px;}
 text-indent: 13px; line-height: 25px;}
 .bar6 {color:#000;background-color:#b5b5bc; width: 80%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
-.bar7 {color:#000;background-color:#b5b5bc; width: 30%; font-size: 20px; color: #000000;
+.bar7 {color:#000;background-color:#b5b5bc; width: 20%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
 .bar8 {color:#000;background-color:#b5b5bc; width: 25%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
-.bar9 {color:#000;background-color:#b5b5bc; width: 35%; font-size: 20px; color: #000000;
+.bar9 {color:#000;background-color:#b5b5bc; width: 30%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
 .bar10 {color:#000;background-color:#b5b5bc; width: 50%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
-.bar11 {color:#000;background-color:#b5b5bc; width: 35%; font-size: 20px; color: #000000;
+.bar11 {color:#000;background-color:#b5b5bc; width: 30%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
-.bar12 {color:#000;background-color:#b5b5bc; width: 60%; font-size: 20px; color: #000000;
+.bar12 {color:#000;background-color:#b5b5bc; width: 50%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
 .bar13 {color:#000;background-color:#b5b5bc; width: 68%; font-size: 20px; color: #000000;
 text-indent: 11px; line-height: 25px;}
@@ -581,13 +581,14 @@ padding-bottom: 0.8%;
 
 	.inprog80 {
 opacity: 0.6;
+width: 60%;
 background: C1C1C1;
 font-size: 24px;
 color: #450B0B;
 font-style: italic;
 letter-spacing: 3px;
 padding-left: 120px;
-padding-bottom: 2%;
+padding-bottom: 1%;
 }
 
 	.cr {
