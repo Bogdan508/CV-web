@@ -519,17 +519,17 @@ background: #ccc;
 .bborder{border:2px solid #ccc; background: #d0d3d8; display: block; width: 90%;font-size: 20px;
 color: #450B0B;}
 .round {border-radius: 30px;}
-.bar1 {color:#000;background-color:#b5b5bc; width: 80%; font-size: 20px; color: #000000;
+.bar1 {color:#000;background-color:#b5b5bc; width: 70%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
-.bar2 {color:#000;background-color:#b5b5bc; width: 80%; font-size: 20px; color: #000000;
+.bar2 {color:#000;background-color:#b5b5bc; width: 70%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
 .bar3 {color:#000;background-color:#b5b5bc; width: 35%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
 .bar4 {color:#000;background-color:#b5b5bc; width: 60%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
-.bar5 {color:#000;background-color:#b5b5bc; width: 15%; font-size: 20px; color: #000000;
+.bar5 {color:#000;background-color:#b5b5bc; width: 13%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
-.bar6 {color:#000;background-color:#b5b5bc; width: 80%; font-size: 20px; color: #000000;
+.bar6 {color:#000;background-color:#b5b5bc; width: 70%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
 .bar7 {color:#000;background-color:#b5b5bc; width: 20%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
@@ -541,7 +541,7 @@ text-indent: 13px; line-height: 25px;}
 text-indent: 13px; line-height: 25px;}
 .bar11 {color:#000;background-color:#b5b5bc; width: 30%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
-.bar12 {color:#000;background-color:#b5b5bc; width: 50%; font-size: 20px; color: #000000;
+.bar12 {color:#000;background-color:#b5b5bc; width: 40%; font-size: 20px; color: #000000;
 text-indent: 13px; line-height: 25px;}
 .bar13 {color:#000;background-color:#b5b5bc; width: 68%; font-size: 20px; color: #000000;
 text-indent: 11px; line-height: 25px;}
